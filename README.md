@@ -1,6 +1,5 @@
-## Hi there Its meeeeee👋
 
-<!--# Hi there, I’m hhicks658 👋
+# Hi there, I’m hhicks658 👋
 
 **Software Engineer in Training | Project-Oriented Learner**
 
@@ -41,9 +40,4 @@ A curious mind fueled by code, creativity, and conversation. I build web apps us
 ### 📫 Let’s Connect!
 
 Feel free to start a conversation or share ideas—collaboration and curiosity drive my learning journey!
-
----
-
-<!--
-Want to add social links? Share your LinkedIn, Twitter, or personal site and I’ll include them here!
 
