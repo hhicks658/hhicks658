@@ -1,16 +1,49 @@
-## Hi there 👋
+## Hi there Its meeeeee👋
+
+<!--# Hi there, I’m hhicks658 👋
+
+**Software Engineer in Training | Project-Oriented Learner**
+
+---
+
+### 🚀 About Me
+
+A curious mind fueled by code, creativity, and conversation. I build web apps using Python and React. Whether it's writing poetry, decoding a new language, or diving into human psychology, I’m always learning and always listening.  
+**Currently fascinated by quantum computing.**
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** Python, JavaScript
+- **Frameworks:** React
+- **Tools:** Git, VS Code, (and always adding more!)
+
+---
+
+### 🌱 Currently Learning
+
+- Advanced React concepts
+- Python best practices
+- Quantum computing fundamentals
+- Exploring the intersection of technology and human behavior
+
+---
+
+### 💡 Fun Facts
+
+- I love writing poetry and learning new languages
+- Human psychology fascinates me—code and people are both great puzzles!
+- I thrive in collaborative, creative environments
+
+---
+
+### 📫 Let’s Connect!
+
+Feel free to start a conversation or share ideas—collaboration and curiosity drive my learning journey!
+
+---
 
 <!--
-**hhicks658/hhicks658** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Want to add social links? Share your LinkedIn, Twitter, or personal site and I’ll include them here!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
