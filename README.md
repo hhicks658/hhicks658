@@ -1,7 +1,7 @@
 
 # Hi there, I’m Hannah 👋
 
-**Software Engineer in Training | Project-Oriented Learner**
+**Engineer in Training | Project-Oriented Learner**
 
 ---
 
