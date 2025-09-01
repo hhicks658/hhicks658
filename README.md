@@ -1,5 +1,5 @@
 
-# Hi there, I’m hhicks658 👋
+# Hi there, I’m Hannah 👋
 
 **Software Engineer in Training | Project-Oriented Learner**
 
